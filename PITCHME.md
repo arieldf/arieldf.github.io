@@ -11,7 +11,7 @@ _paginate: false
 
 # <!--fit--> Marp CLI example
 
-Hosting Marp slide deck on the web
+Hosting Marp slide deck on the webz
 
 https://github.com/yhatt/marp-cli-example
 
